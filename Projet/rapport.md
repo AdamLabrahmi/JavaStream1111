@@ -11,3 +11,7 @@
 Description :
 <br/>
 Ce projet vise à développer une application de gestion hôtelière complète en Java Native permettant d'automatiser et d'optimiser les opérations quotidiennes d'un établissement hôtelier. Le système offre une solution intégrée pour gérer les réservations, les clients, le personnel, l'inventaire et la facturation.
+
+
+<h3>Diagramme de classe</h3>
+<img src="Diagramme sans nom.drawio.png" />
